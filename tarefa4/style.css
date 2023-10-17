@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#div1 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#div2 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    top: 188px;
+    left: 0px;
+}
+
+#div3 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    top: 376px;
+    left: 0px;
+}
+
+#div4 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 188px;
+}
+
+#div5 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 376px;
+}
+
+#div6 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    top: 188px;
+    left: 188px;
+}
+
+#div7 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+#div8 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    bottom: 188px;
+    right: 0px;
+}
+
+#div9 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    bottom: 376px;
+    right: 0px;
+}
+
+#div10 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 188px;
+}
+
+#div11 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 376px;
+}
+
+#div12 {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+    bottom: 188px;
+    right: 188px;
+}

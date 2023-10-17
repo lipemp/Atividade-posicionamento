@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-1 {
+    background-color: #232121;
+    font-size: 24px;
+    color: white;
+    border-radius: 25px;
+    text-align: end;
+    margin: 50px;
+    padding: 25px;
+}
+
+.container-2 {
+    background-color: #232121;
+    height: 200px;
+    font-size: 24px;
+    color: white;
+    text-align: start;
+    margin: 50px;
+    padding: 25px;
+    border: solid 7px red;
+    overflow-y: scroll;
+}
